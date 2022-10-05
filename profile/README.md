@@ -38,6 +38,9 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 <a href = "https://github.com/Abhay-Tiv007/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Abhay.md">
 <img src = "https://github.com/Abhay-Tiv007/MyPersonalResources/blob/main/AlisaBoskonvichS.png" width="90" height="90">
 </a>
+ <a href = "https://github.com/Ayushmann-B/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Ayushman.md">
+<img src = "https://github.com/Ayushmann-B/MYPersonalResources/blob/main/pexels-moose-photos-10379921.png" width="90" height="90">
+</a>
 <a href = "https://github.com/Varun28coder/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/VarunSingh.md">
 <img src = "https://github.com/Varun28coder/MyPersonalResource/blob/main/IMG_20211026_191941_384.jpg" width="90" height="90">
 </a>
