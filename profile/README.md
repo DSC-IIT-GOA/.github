@@ -17,10 +17,9 @@ if you're looking to get involved.
 
 ## Connect Here - [Links](https://linktr.ee/dsciitgoa)
 
-GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html). For more information see the [Code of Conduct FAQ](https://www.contributor-covenant.org/faq).
-
 <br>
 
+<!---
 ## Fire Fighters of GitHub !
 
 <a href = "https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session">
@@ -53,23 +52,8 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 [![<Mulayam>](https://avatars.githubusercontent.com/u/99270619?size=90)](https://github.com/Mulayam13986/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Mulayam.md)
 
 
-
-<!--
-<a href = "">
-<img src = "" width = 90 height = 90>
-</a>
 -->
  
-
-<!--
-Add your Image Code Here
-
-Refference Code:
-
-[![< Your Name >](< Image Address >?size=90)](< Your-Name.md file Address >)
-
--->
-
 
 <!--
 
